@@ -61,10 +61,11 @@ menu {
     color: white;
     border: 1px solid #626c7581;
     position: absolute;
-    top: 0px;
+    top: 4px;
     right: 5px;
     background-color: #4a4a4a;
     padding: 3px;
+    border-radius: 4px;
     
 
 }
@@ -72,9 +73,10 @@ menu {
     color: white;
     border: 1px solid #626c7581;
     position: absolute;
-    top: 0px;
+    top: 4px;
     right: 30px;
     background-color: #4a4a4a;
     padding: 3px;
+    border-radius: 4px;
 
 }
