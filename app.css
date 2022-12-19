@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img {
+	max-width: 100%;
+}
+ul,
+ol,
+menu {
+	list-style: none;
+}
+.main-container{
+    
+    background-color: #000000;
+    padding-bottom:28px;
+    padding-left: 93px;
+    padding-right: 98px;
+    padding-top: 80px;
+    max-width: 2000px;
+    
+}
+.row{
+    display: flex;      
+}
+.wrap{
+    flex-wrap: wrap;
+    width: 100vh;
+    
+}
+.container-banner{
+    height: 80px;
+    background-color: #222222;
+   max-width: 2000px;
+}
+.colv{
+    flex-basis: calc(100% *(1/7));
+    padding-left: 5px;
+}
+
