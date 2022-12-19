@@ -19,6 +19,7 @@ menu {
     padding-right: 98px;
     padding-top: 80px;
     max-width: 100vw;
+    max-height: 100vh;
        
 }
 .row{
@@ -26,14 +27,15 @@ menu {
 }
 .wrap{
     flex-wrap: wrap;
-    
-    
+       
 }
 .container-banner{
-    height: 80px;
+    
     background-color: #222222;
     max-width: 100vw;
+    max-height: 100vh;
    
+        
 }
 .colv{
     flex-basis: calc(100% * (1/7));
@@ -47,9 +49,8 @@ menu {
     border: 1px solid #5f6f7d0c;
     background-color: #626c7581;
     padding: 2px;
-   
-    
-  
+       
+ 
 }
 .relative{
     position: relative;
@@ -67,7 +68,6 @@ menu {
     padding: 3px;
     border-radius: 4px;
     
-
 }
 .view1{
     color: white;
@@ -78,5 +78,41 @@ menu {
     background-color: #4a4a4a;
     padding: 3px;
     border-radius: 4px;
-
+}
+.white{
+    color: white;
+    
+}
+.col{
+    padding-top:13px;
+    padding-bottom: 10px;
+    
+}
+.sp{
+    padding-top:8px;
+    padding-left: 21px;
+}
+.i{
+    padding-left: 30px;
+    font-size: 25px;
+}
+.t{
+    padding-left: 10px;
+    font-size: 14px;
+}
+.between{
+    justify-content: space-between;
+    align-items: center;
+    max-height: 80px;
+     
+}
+.Green{
+    color: greenyellow;
+}
+.end{
+    border: 2px solid #4a4a4a ;
+    background-color: #4a4a4a;
+    padding: 28px;
+    text-align: center;
+    color: red;
 }
