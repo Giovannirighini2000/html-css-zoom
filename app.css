@@ -46,6 +46,10 @@ menu {
     color: white;
     border: 1px solid #5f6f7d0c;
     background-color: #626c7581;
+    padding: 2px;
+   
+    
+  
 }
 .relative{
     position: relative;
@@ -53,4 +57,24 @@ menu {
 .pallo{
     margin-bottom: 15px;
 }
+.view{
+    color: white;
+    border: 1px solid #626c7581;
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    background-color: #4a4a4a;
+    padding: 3px;
+    
 
+}
+.view1{
+    color: white;
+    border: 1px solid #626c7581;
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    background-color: #4a4a4a;
+    padding: 3px;
+
+}
